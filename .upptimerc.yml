@@ -11,7 +11,7 @@ sites:
 
 status-website:
 
-  theme: dark
+  theme: night
   
   cname: status.carlospadilla.co
 
