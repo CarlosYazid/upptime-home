@@ -10,11 +10,10 @@ sites:
     url: https://chat.carlospadilla.co
 
 status-website:
-  # Dominio personalizado
+  
   cname: status.carlospadilla.co
 
-  # Usa el favicon de tu sitio como logo
-  logoUrl: https://carlospadilla.co/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/CarlosYazid/upptime-home/refs/heads/master/assets/icon.svg
 
   name: Carlos Padilla Status
 
