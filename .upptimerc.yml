@@ -6,8 +6,8 @@ sites:
   - name: Sitio Web
     url: https://carlospadilla.co
 
-  - name: WWW
-    url: https://www.carlospadilla.co
+  - name: Chat
+    url: https://chat.carlospadilla.co
 
 status-website:
   # Dominio personalizado
