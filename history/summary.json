@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.carlospadilla.co.ico",
     "slug": "chat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "91.01%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "91.01%",
     "time": 19641,
     "timeDay": 19641,
     "timeWeek": 19641,
     "timeMonth": 19641,
     "timeYear": 19641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-19": 0
+    }
   }
 ]
