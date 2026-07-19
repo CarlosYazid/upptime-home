@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.carlospadilla.co.ico",
     "slug": "chat",
     "status": "down",
-    "uptime": "2.93%",
-    "uptimeDay": "2.93%",
-    "uptimeWeek": "2.93%",
-    "uptimeMonth": "2.93%",
-    "uptimeYear": "2.93%",
-    "time": 19487,
-    "timeDay": 19487,
-    "timeWeek": 19487,
-    "timeMonth": 19487,
-    "timeYear": 19487,
-    "dailyMinutesDown": {
-      "2026-07-19": 39
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 19486,
+    "timeDay": 19486,
+    "timeWeek": 19486,
+    "timeMonth": 19486,
+    "timeYear": 19486,
+    "dailyMinutesDown": {}
   }
 ]
